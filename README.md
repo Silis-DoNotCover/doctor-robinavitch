@@ -4,7 +4,6 @@
 <h1 align="Left"><strong>Patient Info </strong> </h1>
 </br>
 <h6 align="center"> I love you, thank you, I forgive you, please forgive me .
-<img align="left" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemozMG82bnpsaWlsaW1rcmdubmtobGF3Z2dnYjJuZXQwa2JtemZ1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kuLsD1cOw2NVUSU83K/giphy.gif" width="350" height="550" />
 <h5 align="center"> <img src="https://github.com/user-attachments/assets/220a9dae-5a35-460a-b3e7-7dec11f6809d" width="35" height="35"/> Mauz(kie), Ank, Robby
 <h4 align="center"> 9Teen ♢ He/Him They/Them 
 <h5 align="center"> Lithromantic + InterBinary <img width="27" height="27" alt="image" src="https://github.com/user-attachments/assets/9cbb44c9-5803-4335-9e17-07c1d2b58498"/>  <img width="27" height="27" alt="image" src="https://github.com/user-attachments/assets/85349bd3-f061-418f-8a7f-359f523c4024" /> </h5> 
@@ -44,3 +43,4 @@
 </br>
 </br>
 <img width="1000" height="550" alt="image" src="https://github.com/user-attachments/assets/337f68f3-2827-4715-9056-22889eb49181" align="center" />
+<img width="400" height="250" alt="kuLsD1cOw2NVUSU83K" src="https://github.com/user-attachments/assets/97749dc4-7a01-41e3-af35-42186e5dcc73" />
